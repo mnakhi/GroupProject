@@ -11,6 +11,11 @@
     <modules>
         <module>Generic</module>
         <module>Amazon</module>
+        <module>Macys</module>
+        <module>Netflix</module>
+        <module>ParaBank</module>
+        <module>Facebook</module>
+        <module>CNN</module>
     </modules>
 
     <dependencyManagement>
